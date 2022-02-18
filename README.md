@@ -1,0 +1,1 @@
+# ProgramowanieStrukturalne2022

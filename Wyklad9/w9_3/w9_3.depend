@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650880740 source:c:\users\piotrek\documents\cbprojekty2022\w9_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+

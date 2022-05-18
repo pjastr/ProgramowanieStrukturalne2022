@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652695134 source:c:\users\piotrek\documents\cbprojekty\w12_4\main.c
+	<stdio.h>
+	<stdlib.h>
+
